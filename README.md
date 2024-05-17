@@ -59,4 +59,4 @@ Also verify that openssl is install on your machine.
 [mit-license-badge]: https://img.shields.io/badge/License-MIT-yellow.svg
 [mit-license-link]: https://opensource.org/licenses/MIT
 [daily-workflow-badge]: https://github.com/stacks-network/sbtc/actions/workflows/daily.yml/badge.svg
-[daily-workflow-link]: https://github.com/stacks-network/sbtc/actions/workflows/daily.yml
+[daily-workflow-link]: https://github.com/stacks-network/sbtc/actions/workflows/daily.yml 
